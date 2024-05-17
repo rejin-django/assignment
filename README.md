@@ -11,4 +11,3 @@ Error Handling: Checks for the existence of departments and employees to avoid e
 Data Persistence: Optional saving and loading of company data using JSON for simplicity.
 Unit Tests: Basic tests to validate the functionality of core methods.
 
-This implementation covers all the requirements outlined and provides a solid foundation for an Employee Management System using OOP principles and Python.
